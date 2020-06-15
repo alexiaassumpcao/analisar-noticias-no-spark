@@ -1,3 +1,10 @@
+# Exercícios concluidos
+Os dados resultantes dos exercícios estão dentro da pasta "exercicios".
+A pasta "noticias-final" se refere ao procedimento feito em aula.
+A pasta "corpora" se refere ao exercício 1.
+A pasta "count-dados-por-data" se refere ao exercício 2.
+A pasta "count-dados-por-dominio" se refere ao exercício 3.
+
 # Notícias
 
 Baixe o pacote do spark em [spark.apache.org](spark.apache.org).
